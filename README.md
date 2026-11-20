@@ -1,25 +1,19 @@
-<p align="center"><img src="profile.svg" alt="Ruxxl GitHub stats" width="840"></p>
+<p align="center"><img src="profile.svg" alt="Ruxxl: статистика GitHub" width="840"></p>
 
-# Привет, я Руслан 👋
+<p align="center"><img src="hero.svg" alt="Привет, я Руслан. Lead QA Engineer из Астаны. Строю процессы качества и инструменты, которые снимают с команды рутину." width="840"></p>
 
-**Lead QA Engineer из Астаны.** Строю процессы качества и инструменты, которые снимают с команды рутину.
+<p align="center">
+<a href="https://ruxxl.github.io/portfolio/"><img src="btn-portfolio.svg" alt="Портфолио: 11 проектов, которые запускаются прямо на странице" height="52"></a>
+<a href="https://ruxxl.github.io/my_cv/"><img src="btn-cv.svg" alt="CV" height="52"></a>
+</p>
 
-🚀 [Портфолио: 11 проектов, которые запускаются прямо на странице](https://ruxxl.github.io/portfolio/)
-📄 [CV](https://ruxxl.github.io/my_cv/)
+<p align="center"><img src="problems.svg" alt="Какие проблемы я решаю: QA-бот для багов из чата, нагрузочные тесты /stress на Locust, M Performance для разбора тормозов, релиз-гейт с понятным вердиктом." width="840"></p>
 
-## Какие проблемы я решаю
+<p align="center"><img src="stack.svg" alt="Стек: Cypress, Playwright, Selenium, TypeScript, Python, Postman, SQL, Locust, GitHub Actions, GitLab CI, Jira" width="840"></p>
 
-| Боль команды | Что я сделал | Польза для компании |
-|---|---|---|
-| Чтобы завести баг, нужно уходить из чата в Jira | QA-бот: `#bug` в чате создаёт задачу | Единый стандарт баг-репортов и быстрая обработка |
-| Нагрузочный тест требует инженера и терминала | `/stress` на Locust с отчётом в чат | Проверить стенд может любой участник команды |
-| Спор: виноваты бэкенд, сеть или фронт | M Performance: разбор времени экрана | Причина тормозов видна в цифрах |
-| Решение о релизе принимают по ощущениям | Релиз-гейт: кандидат против боевой сборки | Понятный вердикт перед выкаткой |
+<p align="center"><img src="contacts-title.svg" alt="Контакты" width="840"></p>
 
-## Стек
-
-`Cypress` `Playwright` `Selenium` `TypeScript` `Python` `Postman` `SQL` `Locust` `GitHub Actions` `GitLab CI` `Jira`
-
-## Контакты
-
-Telegram: [@ISNRUS](https://t.me/ISNRUS) · [LinkedIn](https://www.linkedin.com/in/ruslan-issin-bb5302246)
+<p align="center">
+<a href="https://t.me/ISNRUS"><img src="btn-telegram.svg" alt="Telegram: @ISNRUS" height="52"></a>
+<a href="https://www.linkedin.com/in/ruslan-issin-bb5302246"><img src="btn-linkedin.svg" alt="LinkedIn" height="52"></a>
+</p>

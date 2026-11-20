@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="52" viewBox="0 0 840 52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" role="img" aria-label="Контакты"><style>
+.dim{fill:#7b8a83}.tx{fill:#d7e0db}.gr{fill:#39d353}
+@keyframes fade{to{opacity:1}}
+@keyframes bl{50%{opacity:0}}
+@keyframes slide{from{opacity:0;transform:translateX(-36px)}to{opacity:1;transform:none}}
+@keyframes pop{0%{opacity:0;transform:scale(.4)}60%{opacity:1;transform:scale(1.12)}100%{opacity:1;transform:scale(1)}}
+@keyframes dash{to{stroke-dashoffset:-16}}
+@keyframes glow{0%,100%{stroke:#1f3a2a}50%{stroke:#39d353}}
+@keyframes sweep{from{transform:translateX(-260px)}to{transform:translateX(900px)}}
+@keyframes wave{0%,60%,100%{transform:rotate(0)}10%{transform:rotate(16deg)}20%{transform:rotate(-10deg)}30%{transform:rotate(16deg)}40%{transform:rotate(-6deg)}50%{transform:rotate(10deg)}}
+@keyframes draw{from{stroke-dashoffset:var(--l)}to{stroke-dashoffset:0}}
+.cur{animation:bl 1s steps(1) infinite}
+.f{opacity:0;animation:fade .5s ease-out both}
+</style><style></style><defs></defs><text x="4" y="30" font-size="22" font-weight="800" class="tx"><tspan class="gr">#</tspan> Контакты</text><line x1="4" y1="42" x2="836" y2="42" stroke="#39d353" stroke-width="2" pathLength="1" stroke-dasharray="1" style="--l:1;animation:draw 1.2s ease-out .2s both" opacity=".6"/></svg>
