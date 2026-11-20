@@ -1,3 +1,5 @@
+<p align="center"><img src="profile.svg" alt="Ruxxl GitHub stats" width="840"></p>
+
 # Привет, я Руслан 👋
 
 **Lead QA Engineer из Астаны.** Строю процессы качества и инструменты, которые снимают с команды рутину.
