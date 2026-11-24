@@ -1,6 +1,6 @@
 <p align="center"><img src="profile.svg" alt="Ruxxl: статистика GitHub" width="840"></p>
 
-<p align="center"><img src="hero.svg" alt="Привет, я Руслан. Lead QA Engineer из Астаны. Строю процессы качества и инструменты, которые снимают с команды рутину." width="840"></p>
+<p align="center"><img src="hero.svg" alt="Привет, я Руслан. Python разработчик из Астаны. Строю процессы качества и инструменты, которые снимают с команды рутину." width="840"></p>
 
 <p align="center">
 <a href="https://ruxxl.github.io/portfolio/"><img src="btn-portfolio.svg" alt="Портфолио: 11 проектов, которые запускаются прямо на странице" height="52"></a>
